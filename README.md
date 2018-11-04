@@ -11,6 +11,7 @@ To get started developing right away:
 
 ## Resources
 * [Udacity project Walkthrough](https://youtu.be/OcL7-7cRpkQ)
+* [React Router] (https://reacttraining.com/react-router/web/api/Link)
 * Course peers
 
 ## What You're Getting
